@@ -89,12 +89,9 @@ streamlit run RTFD.py
 - High success rates for proper detection of the faces.
 
 
-## SCREENSHOTS
-![Image](Images/INTRODUCTION-PAGE.png)
-![Image](Images/ABOUT-THE-APPLICATION.png)
-![Image](Images/ABOUT-THE-AUTHOR.png)
+## ARCHITECTURE
 ![Image](Images/FLOWCHART.png)
-![Image](Images/MODULES-COMPONENTS.png)
+
 
 
 
