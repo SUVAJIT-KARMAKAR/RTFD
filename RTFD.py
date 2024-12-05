@@ -139,7 +139,7 @@ def main():
                               cv.putText(image_array, f"#{idx}", (left + 5, bottom +25), font, 0.88, COLOR_WHITE, 1)
 
                         #SHOWING THE IMAGE 
-                        stream.image(BGR_TO_RGB(image_array), width=720)
+                        stream.image(BGR_TO_RGB(image_array), width=900)
 
                         #FACES THAT ARE IDENTIFIED 
                         maximum_faces = len(face_locations)
@@ -151,7 +151,7 @@ def main():
                               face_idxs = col1.multiselect("SELECT FACE #", range(maximum_faces), default=range(maximum_faces))
 
                               #FILTERING FOR SIMILARLY BEYOND THRESHOLD
-                              similarity_threshold = col2.slider("SELECT THRESHOLD FOR SIMILARITY", min_value=0.0, max_value=1.0, value=0.7)
+                              similarity_threshold = col2.slider("SELECT THRESHOLD FOR SIMILARITY", min_value=0.3, max_value=1.0, value=0.8)
 
                               flag_show = False
 
