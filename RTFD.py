@@ -1,3 +1,4 @@
+# RTFD.PY
 # IMPORTING THE REQUIRED MODULES IN THE WORKSPACE
 import uuid as uid
 from streamlit_option_menu import option_menu
@@ -88,10 +89,10 @@ def main():
       stream.sidebar.success("The better is the confidence value, the better is the match")
 
       # DEFINING THE STATIC DATA 
-      stream.sidebar.image('Images/SIDEBAR-LOGO.png')
-      stream.sidebar.markdown("""
-      MADE BY [*SUVAJITKARMAKAR*](https://github.com/SUVAJITKARMAKAR/opencv-realtime-face-detection-application)
-      """)
+      # stream.sidebar.image('Images/SIDEBAR-LOGO.png')
+      # stream.sidebar.markdown("""
+      # MADE BY [*SUVAJITKARMAKAR*](https://github.com/SUVAJITKARMAKAR/opencv-realtime-face-detection-application)
+      # """)
 
 
       # MENU 

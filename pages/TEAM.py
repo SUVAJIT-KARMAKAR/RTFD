@@ -1,10 +1,13 @@
+# /PAGES/TEAM.PY
+# IMPORTING THE REQUIRED MODULES IN THE WORK SPACE 
 import streamlit as stream
 
-stream.set_page_config(page_title="AUTHOR", page_icon=":eye", layout="wide")
+# PAGE CONFIGURATION
+stream.set_page_config(page_title="TEAM", page_icon=":eye", layout="wide")
 
 
 def main():
-      stream.header("AUTHOR")
+      stream.header("TEAM")
       stream.subheader("SUVAJITKARMKAR")
 
       stream.markdown('''

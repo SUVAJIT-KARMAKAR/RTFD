@@ -1,3 +1,5 @@
+# /PAGES/CALENDAR.PY
+# IMPORTING THE REQUIRED MODULES IN THE WORK SPACE 
 import streamlit as stream
 import calendar
 import time

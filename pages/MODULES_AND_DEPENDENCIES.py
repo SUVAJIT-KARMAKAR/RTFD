@@ -1,5 +1,8 @@
+# /PAGES/MODULES_AND_DEPENDENCIES.PY
+# IMPORTING THE REQUIRED MODULES IN THE WORK SPACE 
 import streamlit as stream
 
+# PAGE CONFIGURATION
 stream.set_page_config(page_title="MODULES", page_icon=":eye", layout="wide")
 
 
