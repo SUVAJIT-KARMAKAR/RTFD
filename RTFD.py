@@ -155,7 +155,7 @@ def main():
 
                               flag_show = False
 
-                              if (( col1.checkbox("CLICK TO PROCEED")) and (len(face_idxs) > 0 )):
+                              if (( col1.button("CLICK TO PROCEED")) and (len(face_idxs) > 0 )):
                                     dataframe_new = panda.DataFrame()
 
                                     #INTERACTING FACES ONE BY ONE 
@@ -219,7 +219,7 @@ def main():
                                                       attendance(visitor_id, 'Unknown')
 
                                     if flag_show == True:
-                                          stream.image(BGR_TO_RGB(image_array_copy), width=720)
+                                          stream.image(BGR_TO_RGB(image_array_copy), width=900)
 
                         else:
                               no_human_face_detected_error_message = stream.error("NO HUMAN FACE DETECTED")
