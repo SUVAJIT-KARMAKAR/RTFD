@@ -90,7 +90,7 @@ streamlit run RTFD.py
 
 
 ## ARCHITECTURE
-![Image](Images/FLOWCHART.png)
+![Image](Images/ARCHITECTURE.png)
 
 
 
