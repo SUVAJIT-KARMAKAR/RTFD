@@ -10,7 +10,8 @@ def main():
       stream.header("TEAM MAN & WOMAN")
       stream.subheader("SUVAJITKARMKAR -  PRIYA DHARSHINI G")
 
-      stream.markdown('''''')
+      stream.success("I, Suvajit Karmakar, along with my talented and supportive teammate Priya Dharshini G, developed this innovative project based on the concept of a handless attendance system. The project leverages cutting-edge face-detection technology to streamline and modernize the attendance process, ensuring accuracy and efficiency while minimizing human intervention.")
+      stream.info("THANK YOU SO MUCH")
 
 
 # MAIN
