@@ -1,5 +1,5 @@
 ![Logo](Images/RTFD-LOGO.jpeg)
-# REAL TIME ATTENDANCE SYSTEM 
+# REAL TIME FACE DETECTION SYSTEM 
 ## AN OPENCV PROJECT 
 
 *The real-time face recognition project utilizes OpenCV and machine learning algorithms to detect and recognize faces in real-time. The application is robust and flexible and allows detection and capture of face for real-time attendance system.*
@@ -13,17 +13,17 @@
 #### RUNNING IN LOCAL ENVIRONMENT
 ###### STEP : 1
 ```bash
-pip insall virtualenv
+pip3 insall virtualenv
 ```
 
 ###### STEP : 2
 ```bash
-virtual env
+virtual venv
 ```
 
 ###### STEP : 3
 ```bash
-cd env
+cd venv
 ```
 
 ###### STEP : 4
@@ -31,18 +31,18 @@ cd env
 
 ###### STEP : 5
 ```bash
-.env\Scripts\activate
+.venv\Scripts\activate
 ```
 
 ###### STEP : 6
 ```bash
-pip install streamlit 
-pip install numpy
-pip install pandas
-pip install face-recognition
-pip install cmake
-pip install dlib
-pip install cv2
+pip3 install streamlit 
+pip3 install numpy
+pip3 install pandas
+pip3 install face-recognition
+pip3 install cmake
+pip3 install dlib
+pip3 install opencv-python
 ```
 
 ###### STEP : 1
@@ -94,11 +94,16 @@ streamlit run RTFD.py
 
 
 
-
 ## AUTHORS
+- [@PRIYA DHARSHINI G]()
 - [@SUVAJITKARMAKAR](https://github.com/SUVAJITKARMAKAR)
 
 
-## FEEDBACK
-If you have any feedback about this project or any queries, please reach out to me at suvajit.karmakar@mca.christuniversity.in
+## CONTRIBUTION
+All contributions are welcomed, let's make this application the next revolutionary face-detection application for real-time attendance system. 
+
+Please go through the ```contributions.md``` file to adhere the rules and regulations for open source contribution.
+
+## THANK YOU
+Your support and enthusiasm is much appreciated.
 
