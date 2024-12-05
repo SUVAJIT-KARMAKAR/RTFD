@@ -74,5 +74,6 @@ def main():
 #       elif time.time() - stream.session_state.last_activity_time > 300:  # 5 minutes
 #             stream.session_state.clear()
 
+# MAIN
 if __name__ == "__main__":
       main()

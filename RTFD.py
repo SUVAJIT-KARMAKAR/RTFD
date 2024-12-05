@@ -312,6 +312,6 @@ def main():
 
 
 
-#INITIALIZATION POINT FOR THE APPLICATION
+# MAIN
 if __name__ == '__main__':
       main()

@@ -30,6 +30,6 @@ def main():
       stream.success("PANDAS")
       stream.write("Pandas is a powerful Python library designed for data manipulation and analysis. It provides easy-to-use data structures and functions, primarily DataFrame, which resembles a spreadsheet with rows and columns. Pandas allows for efficient handling of large datasets, offering functionalities for data cleaning, exploration, transformation, and visualization. It seamlessly integrates with other libraries like NumPy and Matplotlib, making it a cornerstone tool for data scientists and analysts. With its intuitive syntax and comprehensive documentation, Pandas simplifies complex data tasks, enabling users to extract valuable insights and drive informed decisions in various domains, including finance, research, and machine learning.")
 
-
+# MAIN
 if __name__ == '__main__':
       main()

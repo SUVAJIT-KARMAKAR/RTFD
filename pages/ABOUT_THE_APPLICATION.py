@@ -15,5 +15,6 @@ def main():
 
       stream.warning("Overall, the innovative solution represents a cutting-edge approach to attendance management in educational settings, leveraging the latest advancements in computer vision and machine learning to optimize efficiency and accuracy.")
 
+# MAIN
 if __name__ == '__main__':
       main()
