@@ -93,7 +93,7 @@ streamlit run RTFD.py
 ![Image](Images/ARCHITECTURE.png)
 
 ## PROJECT FOLDER STRUCTURE 
-```
+
 . <br>
 ├── attendancereport.xlsx <br>
 ├── contributions.md <br>
@@ -120,7 +120,7 @@ streamlit run RTFD.py
    └── visitors_history.csv
 
 6 directories, 18 files
-```
+
 
 
 
