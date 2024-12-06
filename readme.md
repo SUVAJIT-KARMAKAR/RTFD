@@ -92,6 +92,36 @@ streamlit run RTFD.py
 ## ARCHITECTURE
 ![Image](Images/ARCHITECTURE.png)
 
+## PROJECT FOLDER STRUCTURE 
+```
+. <br>
+├── attendancereport.xlsx <br>
+├── contributions.md <br>
+├── EXCEL_ATTENDANCE_FILE.xlsx <br>
+├── **functionalities.py** <br>
+├── Images <br>
+│   ├── ARCHITECTURE.png <br>
+│   └── RTFD-LOGO.jpeg <br>
+├── pages <br>
+│   ├── ABOUT_THE_APPLICATION.py <br>
+│   ├── CALENDAR.py <br>
+│   ├── FLOWCHART.py <br>
+│   ├── MODULES_AND_DEPENDENCIES.py <br>
+│   └── TEAM.py <br>
+├── __pycache__  <br>
+│   ├── functionalities.cpython-312.pyc <br>
+│   └── records.cpython-312.pyc <br>
+├── pyvenv.cfg <br>
+├── readme.md <br>
+├── **records.py** <br>
+├── **RTFD.py** <br> 
+├── visitor_database <br> 
+└── visitor_history <br> 
+   └── visitors_history.csv
+
+6 directories, 18 files
+```
+
 
 
 ## AUTHORS

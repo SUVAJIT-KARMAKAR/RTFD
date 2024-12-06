@@ -3,7 +3,7 @@
 import uuid as uid
 from streamlit_option_menu import option_menu
 
-# IMPORTING THE functionalities.py 
+# IMPORTING THE functionalities.py AND reports.py
 from functionalities import * 
 from records import *
 
